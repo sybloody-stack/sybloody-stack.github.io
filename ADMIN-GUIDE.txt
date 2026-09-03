@@ -2,7 +2,7 @@ YAZAN Portfolio — Admin Guide
 =============================
 
 Open the admin panel:  <your-site-url>/#admin   (or open the site and add #admin)
-Password:  yazan   (change it in src/admin/Admin.tsx → PASSWORD)
+Password:  watan   (change it in src/admin/Admin.tsx → PASSWORD)
 
 Tabs:
 - Contact & Links : email, WhatsApp, socials, Résumé URL, Portfolio URL, location.
