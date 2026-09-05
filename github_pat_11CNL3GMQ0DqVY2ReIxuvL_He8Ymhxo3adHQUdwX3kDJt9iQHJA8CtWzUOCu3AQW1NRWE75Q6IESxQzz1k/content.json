@@ -1,1 +1,386 @@
-{}
+{
+  "media": {
+    "photography": {
+      "restaurants": [
+        {
+          "id": "firas",
+          "name": {
+            "en": "TEATRO Cafe and Kitchen",
+            "ar": "كافيه تياترو"
+          },
+          "logo": "/assets/photography/restaurants/teatro-cafe-and-kitchen/logo.jpg",
+          "cover": "/assets/photography/restaurants/teatro-cafe-and-kitchen/cover.jpg",
+          "path": "",
+          "images": [
+            {
+              "src": "/assets/photography/restaurants/teatro-cafe-and-kitchen/4n6a0714-copy-zsghl.jpg",
+              "alt": "TEATRO Cafe and Kitchen"
+            },
+            {
+              "src": "/assets/photography/restaurants/teatro-cafe-and-kitchen/4n6a0717-copy-zsjd4.jpg",
+              "alt": "TEATRO Cafe and Kitchen"
+            },
+            {
+              "src": "/assets/photography/restaurants/teatro-cafe-and-kitchen/4n6a0719-copy-zsljx.jpg",
+              "alt": "TEATRO Cafe and Kitchen"
+            }
+          ]
+        },
+        {
+          "id": "sakura-sushi",
+          "name": {
+            "en": "Sakura Sushi",
+            "ar": "ساكورا سوشي"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/31286786/pexels-photo-31286786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/31286786/pexels-photo-31286786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Salmon omakase close-up"
+            },
+            {
+              "src": "https://images.pexels.com/photos/31415304/pexels-photo-31415304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Sushi set, dramatic light"
+            },
+            {
+              "src": "https://images.pexels.com/photos/27101357/pexels-photo-27101357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Purple dumplings"
+            }
+          ]
+        },
+        {
+          "id": "aroma-cafe",
+          "name": {
+            "en": "Aroma Café",
+            "ar": "أروما كافيه"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/33191824/pexels-photo-33191824.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/33191824/pexels-photo-33191824.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Latte art & phone in café"
+            },
+            {
+              "src": "https://images.pexels.com/photos/13240964/pexels-photo-13240964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Black coffee, moody café"
+            },
+            {
+              "src": "https://images.pexels.com/photos/35821973/pexels-photo-35821973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Heart latte art"
+            }
+          ]
+        }
+      ],
+      "cars": [
+        {
+          "id": "velocity-motors",
+          "name": {
+            "en": "Velocity Motors",
+            "ar": "معرض فيلوسيتي موتورز"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/24589327/pexels-photo-24589327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [],
+          "folders": [
+            {
+              "id": "sports",
+              "name": {
+                "en": "Sports Cars",
+                "ar": "سيارات رياضية"
+              },
+              "logo": "",
+              "cover": "https://images.pexels.com/photos/24589327/pexels-photo-24589327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "path": "",
+              "images": [
+                {
+                  "src": "https://images.pexels.com/photos/24589327/pexels-photo-24589327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                  "alt": "Red sports car, night street"
+                },
+                {
+                  "src": "https://images.pexels.com/photos/7161591/pexels-photo-7161591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                  "alt": "Sports car under bridge"
+                },
+                {
+                  "src": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                  "alt": "Sports car detail, dramatic light"
+                }
+              ]
+            },
+            {
+              "id": "luxury",
+              "name": {
+                "en": "Luxury Cars",
+                "ar": "سيارات فخمة"
+              },
+              "logo": "",
+              "cover": "https://images.pexels.com/photos/19273958/pexels-photo-19273958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "path": "",
+              "images": [
+                {
+                  "src": "https://images.pexels.com/photos/19273958/pexels-photo-19273958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                  "alt": "Luxury car under neon"
+                },
+                {
+                  "src": "https://images.pexels.com/photos/16889490/pexels-photo-16889490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                  "alt": "White sports car, neon shopfront"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "elite-auto",
+          "name": {
+            "en": "Elite Auto Gallery",
+            "ar": "معرض إيليت للسيارات"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/18313148/pexels-photo-18313148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [],
+          "folders": [
+            {
+              "id": "convertible",
+              "name": {
+                "en": "Convertibles",
+                "ar": "سيارات مكشوفة"
+              },
+              "logo": "",
+              "cover": "https://images.pexels.com/photos/18313148/pexels-photo-18313148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "path": "",
+              "images": [
+                {
+                  "src": "https://images.pexels.com/photos/18313148/pexels-photo-18313148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                  "alt": "Convertible in the city"
+                }
+              ]
+            },
+            {
+              "id": "classic",
+              "name": {
+                "en": "Classic Cars",
+                "ar": "سيارات كلاسيكية"
+              },
+              "logo": "",
+              "cover": "https://images.pexels.com/photos/1035108/pexels-photo-1035108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "path": "",
+              "images": [
+                {
+                  "src": "https://images.pexels.com/photos/1035108/pexels-photo-1035108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                  "alt": "Classic car close-up"
+                }
+              ]
+            },
+            {
+              "id": "luxury",
+              "name": {
+                "en": "Luxury Cars",
+                "ar": "سيارات فخمة"
+              },
+              "logo": "",
+              "cover": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "path": "",
+              "images": [
+                {
+                  "src": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                  "alt": "Luxury car on the road"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "medical": [
+        {
+          "id": "nova-medical",
+          "name": {
+            "en": "Nova Medical Center",
+            "ar": "مركز نوفا الطبي"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/247786/pexels-photo-247786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/247786/pexels-photo-247786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Modern clinic interior"
+            },
+            {
+              "src": "https://images.pexels.com/photos/305566/pexels-photo-305566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Medical equipment close-up"
+            },
+            {
+              "src": "https://images.pexels.com/photos/3376790/pexels-photo-3376790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Clean medical corridor"
+            }
+          ]
+        },
+        {
+          "id": "bright-smile",
+          "name": {
+            "en": "Bright Smile Dental",
+            "ar": "عيادة برايت سمايل للأسنان"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/4021775/pexels-photo-4021775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/4021775/pexels-photo-4021775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Dental clinic chair"
+            },
+            {
+              "src": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Doctor consultation"
+            }
+          ]
+        },
+        {
+          "id": "lumiere-clinic",
+          "name": {
+            "en": "Lumière Aesthetic Clinic",
+            "ar": "عيادة لوميير للتجميل"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Stethoscope on white"
+            },
+            {
+              "src": "https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Aesthetic clinic detail"
+            },
+            {
+              "src": "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Skincare treatment room"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "id": "noir-oud",
+          "name": {
+            "en": "Noir Oud",
+            "ar": "نوار عود"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/12053217/pexels-photo-12053217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/12053217/pexels-photo-12053217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Perfume bottle with petals"
+            },
+            {
+              "src": "https://images.pexels.com/photos/7850600/pexels-photo-7850600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Perfume on black silk"
+            },
+            {
+              "src": "https://images.pexels.com/photos/11216321/pexels-photo-11216321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Black bottle, glossy reflection"
+            },
+            {
+              "src": "https://images.pexels.com/photos/31771395/pexels-photo-31771395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Profumo bottle on black"
+            }
+          ]
+        },
+        {
+          "id": "maison-glass",
+          "name": {
+            "en": "Maison Glass",
+            "ar": "ميزون غلاس"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/37900999/pexels-photo-37900999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/37900999/pexels-photo-37900999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Watch & perfume on leather"
+            },
+            {
+              "src": "https://images.pexels.com/photos/36779953/pexels-photo-36779953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Perfume on textured fabric"
+            },
+            {
+              "src": "https://images.pexels.com/photos/36779955/pexels-photo-36779955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Perfume macro on fabric"
+            },
+            {
+              "src": "https://images.pexels.com/photos/36779956/pexels-photo-36779956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Glass perfume bottle"
+            }
+          ]
+        }
+      ],
+      "realestate": [
+        {
+          "id": "skyline-estates",
+          "name": {
+            "en": "Skyline Estates",
+            "ar": "سكاي لاين العقارية"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Modern villa exterior at dusk"
+            },
+            {
+              "src": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Contemporary house facade"
+            },
+            {
+              "src": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Villa with pool at night"
+            }
+          ]
+        },
+        {
+          "id": "marina-heights",
+          "name": {
+            "en": "Marina Heights",
+            "ar": "مارينا هايتس"
+          },
+          "logo": "",
+          "cover": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "path": "",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Luxury living room interior"
+            },
+            {
+              "src": "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Designer kitchen island"
+            },
+            {
+              "src": "https://images.pexels.com/photos/3288104/pexels-photo-3288104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Penthouse with city view"
+            },
+            {
+              "src": "https://images.pexels.com/photos/2029667/pexels-photo-2029667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Modern bedroom, warm light"
+            },
+            {
+              "src": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+              "alt": "Bright minimalist interior"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
