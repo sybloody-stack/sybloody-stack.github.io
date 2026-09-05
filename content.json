@@ -3,30 +3,6 @@
     "photography": {
       "restaurants": [
         {
-          "id": "firas",
-          "name": {
-            "en": "TEATRO Cafe and Kitchen",
-            "ar": "كافيه تياترو"
-          },
-          "logo": "/assets/photography/restaurants/teatro-cafe-and-kitchen/logo.jpg",
-          "cover": "/assets/photography/restaurants/teatro-cafe-and-kitchen/cover.jpg",
-          "path": "",
-          "images": [
-            {
-              "src": "/assets/photography/restaurants/teatro-cafe-and-kitchen/4n6a0711-copy-0qwxq.jpg",
-              "alt": "TEATRO Cafe and Kitchen"
-            },
-            {
-              "src": "/assets/photography/restaurants/teatro-cafe-and-kitchen/4n6a0713-copy-16mmz.jpg",
-              "alt": "TEATRO Cafe and Kitchen"
-            },
-            {
-              "src": "/assets/photography/restaurants/teatro-cafe-and-kitchen/4n6a0714-copy-0r728.jpg",
-              "alt": "TEATRO Cafe and Kitchen"
-            }
-          ]
-        },
-        {
           "id": "sakura-sushi",
           "name": {
             "en": "Sakura Sushi",
@@ -71,6 +47,22 @@
             {
               "src": "https://images.pexels.com/photos/35821973/pexels-photo-35821973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
               "alt": "Heart latte art"
+            }
+          ]
+        },
+        {
+          "id": "fmtp1fage",
+          "name": {
+            "en": "TEATRO Cafe and Kitchen",
+            "ar": "كافيه تياترو"
+          },
+          "logo": "/assets/photography/restaurants/teatro-cafe-and-kitchen/logo.jpg",
+          "cover": "/assets/photography/restaurants/teatro-cafe-and-kitchen/cover.jpg",
+          "path": "",
+          "images": [
+            {
+              "src": "",
+              "alt": ""
             }
           ]
         }
