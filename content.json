@@ -571,7 +571,19 @@
         "orientation": "portrait",
         "title": {
           "en": "SOS Cofe ",
-          "ar": "فيديو جديد"
+          "ar": "Sos Cofe"
+        },
+        "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/P2HMyXxsiaA",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Sos Cafe",
+          "ar": "Sos Cafe"
         },
         "duration": "00:30"
       }
