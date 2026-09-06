@@ -430,29 +430,6 @@
         }
       ]
     },
-    "video": [
-      {
-        "type": "video",
-        "cat": "restaurants",
-        "src": "",
-        "poster": "/assets/uploads/كافيه-4-m7wzj.mp4",
-        "title": {
-          "en": "New video",
-          "ar": "فيديو جديد"
-        },
-        "duration": "00:30"
-      },
-      {
-        "type": "video",
-        "cat": "restaurants",
-        "src": "",
-        "poster": "/assets/uploads/كافيه-2-mc0i2.mp4",
-        "title": {
-          "en": "New video",
-          "ar": "فيديو جديد"
-        },
-        "duration": "00:30"
-      }
-    ]
+    "video": []
   }
 }
