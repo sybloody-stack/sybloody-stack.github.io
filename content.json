@@ -706,6 +706,18 @@
           "ar": "Sos Cafe"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "products",
+        "src": "https://youtube.com/shorts/cFLYh1sJyiY",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Relook Salon",
+          "ar": "Relook Salon"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
