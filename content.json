@@ -673,58 +673,198 @@
       ],
       "realestate": [
         {
-          "id": "skyline-estates",
+          "id": "fmtq9onfi",
           "name": {
-            "en": "Skyline Estates",
-            "ar": "سكاي لاين العقارية"
+            "en": "Vogue Vacation Homes ",
+            "ar": "Vogue Vacation Homes "
           },
-          "logo": "",
-          "cover": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "logo": "/assets/photography/realestate/vogue-vacation-homes/logo.jpg",
+          "cover": "/assets/photography/realestate/vogue-vacation-homes/cover.jpg",
           "path": "",
           "images": [
             {
-              "src": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Modern villa exterior at dusk"
+              "src": "/assets/photography/realestate/vogue-vacation-homes/1006-new-photo-9qjep.jpeg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Contemporary house facade"
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc00007-9qpua.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Villa with pool at night"
-            }
-          ]
-        },
-        {
-          "id": "marina-heights",
-          "name": {
-            "en": "Marina Heights",
-            "ar": "مارينا هايتس"
-          },
-          "logo": "",
-          "cover": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "path": "",
-          "images": [
-            {
-              "src": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Luxury living room interior"
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc00017-edit-9qu5i.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Designer kitchen island"
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc09950-9r24e.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/3288104/pexels-photo-3288104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Penthouse with city view"
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc09944-9r7ll.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/2029667/pexels-photo-2029667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Modern bedroom, warm light"
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs00028-edit-9rh3f.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Bright minimalist interior"
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs00060-edit-9rpfb.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs00086-edit-9rw02.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs05700-edit-9s3pm.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs05713-edit-9s7mv.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs05774-9sd20.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs05783-9shnt.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs05806-9smom.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs05811-9stys.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs05821-9szt4.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc06916-9t94s.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc06945-9tf0k.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc06961-9tkam.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc07020-edit-9tqyz.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs07184-edit-9txll.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs07194-edit-9u4qz.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs07306-9uae6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs07318-9uj1x.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09521-edit-9uxig.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09512-edit-9v0xt.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09525-edit-9v53l.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09549-edit-9v9kn.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09555-edit-9vdj2.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09559-edit-9vivz.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09586-9vo2m.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09611-9vwiu.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09631-9w3r2.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09623-edit-9wea6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs09652-9wida.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc07806-9wpkg.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc07715-9wtn5.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs07776-edit-9wy4b.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs07783-edit-9x1nl.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs07819-edit-9x5xc.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/gcs07762-edit-9xcik.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc07715-9xqjw.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc01679-9xy23.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc01680-9y76e.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc01756-9ykf1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc01752-9yo1a.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/realestate/vogue-vacation-homes/dsc01659-9ytvu.jpg",
+              "alt": ""
             }
           ]
         }
