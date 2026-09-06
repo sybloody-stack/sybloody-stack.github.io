@@ -502,6 +502,18 @@
           "ar": "Best Maza "
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "products",
+        "src": "https://youtube.com/shorts/gZu0rsH9v0E?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Relook Salon",
+          "ar": "Relook Salon"
+        },
+        "duration": "00:30"
       }
     ]
   }
