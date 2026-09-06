@@ -611,6 +611,40 @@
         },
         "duration": "00:30"
       }
+    ],
+    "clientLogos": [
+      {
+        "name": "Nova Café",
+        "src": "/assets/clients/nova.png"
+      },
+      {
+        "name": "Vertex Motors",
+        "src": "/assets/clients/vertex.png"
+      },
+      {
+        "name": "Lumière Clinic",
+        "src": "/assets/clients/lumiere.png"
+      },
+      {
+        "name": "Aurora Residences",
+        "src": "/assets/uploads/untitled-1-3676f.jpg"
+      },
+      {
+        "name": "Saffron Kitchen",
+        "src": "/assets/uploads/untitled-1-36hte.jpg"
+      },
+      {
+        "name": "Halo Beauty",
+        "src": "/assets/clients/halo.png"
+      },
+      {
+        "name": "Metro Estates",
+        "src": "/assets/clients/metro.png"
+      },
+      {
+        "name": "Pulse Fitness",
+        "src": "/assets/clients/pulse.png"
+      }
     ]
   }
 }
