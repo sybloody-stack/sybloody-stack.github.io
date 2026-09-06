@@ -438,8 +438,20 @@
         "poster": "",
         "orientation": "portrait",
         "title": {
-          "en": "New video",
-          "ar": "فيديو جديد"
+          "en": "SAVE OUR SOULS CAFE",
+          "ar": "SAVE OUR SOULS CAFE"
+        },
+        "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/ONLAU1i3q_0",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "SAVE OUR SOULS CAFE",
+          "ar": "SAVE OUR SOULS CAFE"
         },
         "duration": "00:30"
       }
