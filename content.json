@@ -430,6 +430,79 @@
         }
       ]
     },
-    "video": []
+    "video": [
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/R2XwXM5Nd7I?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Best Maza ",
+          "ar": "Best Maza "
+        },
+        "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/vDX5SfvN2wY?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Best Maza ",
+          "ar": "Best Maza "
+        },
+        "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/7zkxi9HajcA?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Best Maza ",
+          "ar": "Best Maza "
+        },
+        "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/J80ciPF-Tnk?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Best Maza ",
+          "ar": "Best Maza "
+        },
+        "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/Z3cKBeXfC4U?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Best Maza ",
+          "ar": "Best Maza "
+        },
+        "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/TFPXErhrVHk",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Best Maza ",
+          "ar": "Best Maza "
+        },
+        "duration": "00:30"
+      }
+    ]
   }
 }
