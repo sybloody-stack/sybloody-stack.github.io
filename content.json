@@ -454,6 +454,18 @@
           "ar": "SAVE OUR SOULS CAFE"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "products",
+        "src": "https://youtube.com/shorts/gZu0rsH9v0E",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "New video",
+          "ar": "فيديو جديد"
+        },
+        "duration": "00:30"
       }
     ]
   }
