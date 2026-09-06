@@ -454,6 +454,18 @@
           "ar": "SAVE OUR SOULS CAFE"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/Gx-FP6w_MEE",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "SAVE OUR SOULS CAFE",
+          "ar": "SAVE OUR SOULS CAFE"
+        },
+        "duration": "00:30"
       }
     ]
   }
