@@ -478,6 +478,18 @@
           "ar": "فيديو جديد"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "",
+        "poster": "https://youtube.com/shorts/Z3cKBeXfC4U",
+        "orientation": "portrait",
+        "title": {
+          "en": "Best Maza ",
+          "ar": "Best Maza "
+        },
+        "duration": "00:30"
       }
     ]
   }
