@@ -645,6 +645,98 @@
         "name": "Pulse Fitness",
         "src": "/assets/clients/pulse.png"
       }
+    ],
+    "advertising": [
+      {
+        "title": {
+          "en": "hre development campaign",
+          "ar": "hre development campaign"
+        },
+        "cover": "/assets/uploads/whatsapp-image-2026-07-28-at-5-02-22-am-3tm70.jpeg",
+        "metrics": [
+          {
+            "label": {
+              "en": "Impressions",
+              "ar": "مشاهدات"
+            },
+            "value": "11000000"
+          },
+          {
+            "label": {
+              "en": "CTR",
+              "ar": "نسبة النقر"
+            },
+            "value": "150000"
+          },
+          {
+            "label": {
+              "en": "ROAS",
+              "ar": "العائد"
+            },
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": {
+          "en": "hre development campaign",
+          "ar": "hre development campaign"
+        },
+        "cover": "/assets/uploads/whatsapp-image-2026-07-25-at-1-41-44-am--3uz7w.jpeg",
+        "metrics": [
+          {
+            "label": {
+              "en": "Impressions",
+              "ar": "مشاهدات"
+            },
+            "value": "0"
+          },
+          {
+            "label": {
+              "en": "CTR",
+              "ar": "نسبة النقر"
+            },
+            "value": "0"
+          },
+          {
+            "label": {
+              "en": "CPM",
+              "ar": "كلفة الألف"
+            },
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "title": {
+          "en": "hre development campaign",
+          "ar": "hre development campaign"
+        },
+        "cover": "/assets/uploads/whatsapp-image-2026-07-25-at-2-32-30-am--3vp4b.jpeg",
+        "metrics": [
+          {
+            "label": {
+              "en": "Conversions",
+              "ar": "تحويلات"
+            },
+            "value": "0"
+          },
+          {
+            "label": {
+              "en": "CTR",
+              "ar": "نسبة النقر"
+            },
+            "value": "0"
+          },
+          {
+            "label": {
+              "en": "ROAS",
+              "ar": "العائد"
+            },
+            "value": "0"
+          }
+        ]
+      }
     ]
   }
 }
