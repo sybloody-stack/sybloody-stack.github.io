@@ -433,9 +433,10 @@
     "video": [
       {
         "type": "video",
-        "cat": "restaurants",
-        "src": "https://youtube.com/shorts/x-NS-iAkrTs?feature=share",
+        "cat": "products",
+        "src": "https://youtube.com/shorts/-JAZ4MND278?feature=share",
         "poster": "",
+        "orientation": "portrait",
         "title": {
           "en": "New video",
           "ar": "فيديو جديد"
