@@ -430,6 +430,18 @@
         }
       ]
     },
-    "video": []
+    "video": [
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "/assets/videos/c4-n2526.mp4",
+        "poster": "",
+        "title": {
+          "en": "New video",
+          "ar": "فيديو جديد"
+        },
+        "duration": "00:30"
+      }
+    ]
   }
 }
