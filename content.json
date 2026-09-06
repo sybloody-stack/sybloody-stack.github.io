@@ -430,6 +430,18 @@
         }
       ]
     },
-    "video": []
+    "video": [
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/x-NS-iAkrTs?feature=share",
+        "poster": "",
+        "title": {
+          "en": "New video",
+          "ar": "فيديو جديد"
+        },
+        "duration": "00:30"
+      }
+    ]
   }
 }
