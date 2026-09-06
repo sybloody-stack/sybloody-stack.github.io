@@ -3,30 +3,6 @@
     "photography": {
       "restaurants": [
         {
-          "id": "aroma-cafe",
-          "name": {
-            "en": "Aroma Café",
-            "ar": "أروما كافيه"
-          },
-          "logo": "",
-          "cover": "https://images.pexels.com/photos/33191824/pexels-photo-33191824.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "path": "",
-          "images": [
-            {
-              "src": "https://images.pexels.com/photos/33191824/pexels-photo-33191824.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Latte art & phone in café"
-            },
-            {
-              "src": "https://images.pexels.com/photos/13240964/pexels-photo-13240964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Black coffee, moody café"
-            },
-            {
-              "src": "https://images.pexels.com/photos/35821973/pexels-photo-35821973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Heart latte art"
-            }
-          ]
-        },
-        {
           "id": "fmtp1fage",
           "name": {
             "en": "TEATRO Cafe and Kitchen",
@@ -262,6 +238,66 @@
             },
             {
               "src": "/assets/photography/restaurants/cedar-garden/dsc07372-copy-5k6i3.jpg",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "id": "fmtq7r30q",
+          "name": {
+            "en": "Al Tabkh Al Yamani Rest",
+            "ar": "مطعم الطبخ اليمني"
+          },
+          "logo": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/logo.jpg",
+          "cover": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/cover.jpg",
+          "path": "",
+          "images": [
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1591-copy-7sqb8.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1597-copy-7t150.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1600-copy-7t8j5.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1604-copy-7tgsf.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1607-copy-7tocy.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1608-copy-7tuf5.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1612-copy-7u43u.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1607-copy-7ug8i.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1673-copy-7vdoc.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1675-copy-7vkql.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1681-copy-7vt9x.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/al-tabkh-al-yamani-rest/dsc-1680-copy-7vxq2.jpg",
               "alt": ""
             }
           ]
