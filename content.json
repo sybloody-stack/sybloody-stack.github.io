@@ -530,7 +530,7 @@
       {
         "type": "video",
         "cat": "products",
-        "src": "https://youtube.com/shorts/hN9V7KiPBH8?feature=share",
+        "src": "https://youtube.com/shorts/ae-Mjf0xKhI?feature=share",
         "poster": "",
         "orientation": "portrait",
         "title": {
@@ -542,12 +542,12 @@
       {
         "type": "video",
         "cat": "products",
-        "src": "https://youtube.com/shorts/ae-Mjf0xKhI?feature=share",
+        "src": "",
         "poster": "",
         "orientation": "portrait",
         "title": {
-          "en": "Relook Salon",
-          "ar": "Relook Salon"
+          "en": "New video",
+          "ar": "فيديو جديد"
         },
         "duration": "00:30"
       }
