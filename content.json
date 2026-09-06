@@ -433,8 +433,8 @@
     "video": [
       {
         "type": "video",
-        "cat": "products",
-        "src": "",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/-JAZ4MND278?feature=share",
         "poster": "",
         "orientation": "portrait",
         "title": {
