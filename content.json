@@ -562,6 +562,18 @@
           "ar": "Relook Saoln"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/ONLAU1i3q_0?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "SOS Cofe ",
+          "ar": "فيديو جديد"
+        },
+        "duration": "00:30"
       }
     ]
   }
