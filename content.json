@@ -469,13 +469,13 @@
       },
       {
         "type": "video",
-        "cat": "products",
-        "src": "",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/vDX5SfvN2wY?feature=share",
         "poster": "",
         "orientation": "portrait",
         "title": {
-          "en": "New video",
-          "ar": "فيديو جديد"
+          "en": "Best Maza ",
+          "ar": "Best Maza "
         },
         "duration": "00:30"
       },
