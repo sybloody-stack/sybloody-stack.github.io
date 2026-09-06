@@ -3,30 +3,6 @@
     "photography": {
       "restaurants": [
         {
-          "id": "sakura-sushi",
-          "name": {
-            "en": "Sakura Sushi",
-            "ar": "ساكورا سوشي"
-          },
-          "logo": "",
-          "cover": "https://images.pexels.com/photos/31286786/pexels-photo-31286786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "path": "",
-          "images": [
-            {
-              "src": "https://images.pexels.com/photos/31286786/pexels-photo-31286786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Salmon omakase close-up"
-            },
-            {
-              "src": "https://images.pexels.com/photos/31415304/pexels-photo-31415304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Sushi set, dramatic light"
-            },
-            {
-              "src": "https://images.pexels.com/photos/27101357/pexels-photo-27101357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Purple dumplings"
-            }
-          ]
-        },
-        {
           "id": "aroma-cafe",
           "name": {
             "en": "Aroma Café",
@@ -119,6 +95,38 @@
             {
               "src": "/assets/photography/restaurants/teatro-cafe-and-kitchen/4n6a0802-copy-lwgih.jpg",
               "alt": "TEATRO Cafe and Kitchen"
+            }
+          ]
+        },
+        {
+          "id": "fmtq1kst0",
+          "name": {
+            "en": "SAVE OUR SOULS CAFE",
+            "ar": "SAVE OUR SOULS CAFE"
+          },
+          "logo": "",
+          "cover": "/assets/photography/restaurants/save-our-souls-cafe/1-1-1l6yk.jpg",
+          "path": "",
+          "images": [
+            {
+              "src": "/assets/photography/restaurants/save-our-souls-cafe/1-1-1l6yk.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/save-our-souls-cafe/1-2-1lgx9.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/save-our-souls-cafe/1-3-1ljvq.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/save-our-souls-cafe/1-4-1lqe8.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/save-our-souls-cafe/1-5-1lw6b.jpg",
+              "alt": ""
             }
           ]
         }
