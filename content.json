@@ -526,18 +526,6 @@
           "ar": "Relook Salon"
         },
         "duration": "00:30"
-      },
-      {
-        "type": "video",
-        "cat": "products",
-        "src": "",
-        "poster": "",
-        "orientation": "portrait",
-        "title": {
-          "en": "New video",
-          "ar": "فيديو جديد"
-        },
-        "duration": "00:30"
       }
     ]
   }
