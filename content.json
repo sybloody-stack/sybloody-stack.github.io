@@ -526,6 +526,30 @@
           "ar": "Relook Salon"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "products",
+        "src": "https://youtube.com/shorts/hN9V7KiPBH8?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Relook Salon",
+          "ar": "Relook Salon"
+        },
+        "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "products",
+        "src": "https://youtube.com/shorts/ae-Mjf0xKhI?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Relook Salon",
+          "ar": "Relook Salon"
+        },
+        "duration": "00:30"
       }
     ]
   }
