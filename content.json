@@ -1141,6 +1141,184 @@
           }
         ]
       }
-    ]
+    ],
+    "social": {
+      "clients": [
+        {
+          "name": {
+            "en": "Hakori Almadinah",
+            "ar": "هاكوري المدينة "
+          },
+          "cover": "/assets/uploads/gpt-image-2-i2i-cd8f451417dd93b8445bfacc-rj5rf.png",
+          "designs": [
+            {
+              "src": "/assets/uploads/your-next-smile-jpg-rjgm9.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/what-does-your-smile-say-about-you-2-jpg-rjm10.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-24-am--s171n.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-26-am--s1dw9.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-27-am--s1jex.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-12-am-s2eyf.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-13-am--s2h13.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-13-am-s2j5o.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-15-am--s2tpr.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-15-am-s2x4p.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-17-am-s352i.jpeg",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Vertex Motors",
+            "ar": "فيرتكس موتورز"
+          },
+          "cover": "https://images.pexels.com/photos/19273958/pexels-photo-19273958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
+          "designs": [
+            {
+              "src": "https://images.pexels.com/photos/19273958/pexels-photo-19273958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Car drop teaser"
+            },
+            {
+              "src": "https://images.pexels.com/photos/16889490/pexels-photo-16889490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Night launch post"
+            },
+            {
+              "src": "https://images.pexels.com/photos/24589327/pexels-photo-24589327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Red car street"
+            },
+            {
+              "src": "https://images.pexels.com/photos/7161591/pexels-photo-7161591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Car under bridge"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Lumière Clinic",
+            "ar": "عيادة لوميير"
+          },
+          "cover": "https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
+          "designs": [
+            {
+              "src": "https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Clinic detail"
+            },
+            {
+              "src": "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Treatment room"
+            },
+            {
+              "src": "https://images.pexels.com/photos/247786/pexels-photo-247786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Clinic interior"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Aurora Residences",
+            "ar": "أورورا للعقارات"
+          },
+          "cover": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
+          "designs": [
+            {
+              "src": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Living room"
+            },
+            {
+              "src": "https://images.pexels.com/photos/3288104/pexels-photo-3288104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Penthouse view"
+            },
+            {
+              "src": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Villa with pool"
+            },
+            {
+              "src": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Villa exterior"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Saffron Kitchen",
+            "ar": "مطبخ الزعفران"
+          },
+          "cover": "https://images.pexels.com/photos/31415304/pexels-photo-31415304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
+          "designs": [
+            {
+              "src": "https://images.pexels.com/photos/31415304/pexels-photo-31415304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Sushi set"
+            },
+            {
+              "src": "https://images.pexels.com/photos/8112888/pexels-photo-8112888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Gourmet scallops"
+            },
+            {
+              "src": "https://images.pexels.com/photos/29168406/pexels-photo-29168406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Salmon plate"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Halo Beauty",
+            "ar": "هالو بيوتي"
+          },
+          "cover": "https://images.pexels.com/photos/6835958/pexels-photo-6835958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
+          "designs": [
+            {
+              "src": "https://images.pexels.com/photos/6835958/pexels-photo-6835958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Neon editorial"
+            },
+            {
+              "src": "https://images.pexels.com/photos/13015486/pexels-photo-13015486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Color portrait"
+            },
+            {
+              "src": "https://images.pexels.com/photos/6835823/pexels-photo-6835823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Neon makeup"
+            },
+            {
+              "src": "https://images.pexels.com/photos/6835869/pexels-photo-6835869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
+              "alt": "Neon close-up"
+            }
+          ]
+        }
+      ]
+    }
   }
 }
