@@ -1146,52 +1146,6 @@
       "clients": [
         {
           "name": {
-            "en": "Vertex Motors",
-            "ar": "فيرتكس موتورز"
-          },
-          "cover": "https://images.pexels.com/photos/19273958/pexels-photo-19273958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
-          "designs": [
-            {
-              "src": "https://images.pexels.com/photos/19273958/pexels-photo-19273958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Car drop teaser"
-            },
-            {
-              "src": "https://images.pexels.com/photos/16889490/pexels-photo-16889490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Night launch post"
-            },
-            {
-              "src": "https://images.pexels.com/photos/24589327/pexels-photo-24589327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Red car street"
-            },
-            {
-              "src": "https://images.pexels.com/photos/7161591/pexels-photo-7161591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Car under bridge"
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Lumière Clinic",
-            "ar": "عيادة لوميير"
-          },
-          "cover": "https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
-          "designs": [
-            {
-              "src": "https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Clinic detail"
-            },
-            {
-              "src": "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Treatment room"
-            },
-            {
-              "src": "https://images.pexels.com/photos/247786/pexels-photo-247786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Clinic interior"
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Aurora Residences",
             "ar": "أورورا للعقارات"
           },
@@ -1258,6 +1212,75 @@
             {
               "src": "https://images.pexels.com/photos/6835869/pexels-photo-6835869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
               "alt": "Neon close-up"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Hakori Almadinah",
+            "ar": "هاكوري المدينة "
+          },
+          "cover": "/assets/uploads/gpt-image-2-i2i-cd8f451417dd93b8445bfacc-uc8h6.png",
+          "designs": [
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-24-am-ucrkh.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-26-am--ucvhz.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-27-am--ucyti.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/what-does-your-smile-say-about-you-2-jpg-ud4yi.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-12-am-uda4n.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-13-am--ude91.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-13-am-udh8z.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-14-am-udlba.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-15-am-udodb.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-16-am--udu4r.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-16-am-udvzn.jpeg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-17-am-udy29.jpeg",
+              "alt": ""
             }
           ]
         }
