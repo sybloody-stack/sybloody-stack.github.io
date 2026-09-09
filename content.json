@@ -1146,77 +1146,6 @@
       "clients": [
         {
           "name": {
-            "en": "Aurora Residences",
-            "ar": "أورورا للعقارات"
-          },
-          "cover": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
-          "designs": [
-            {
-              "src": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Living room"
-            },
-            {
-              "src": "https://images.pexels.com/photos/3288104/pexels-photo-3288104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Penthouse view"
-            },
-            {
-              "src": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Villa with pool"
-            },
-            {
-              "src": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Villa exterior"
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Saffron Kitchen",
-            "ar": "مطبخ الزعفران"
-          },
-          "cover": "https://images.pexels.com/photos/31415304/pexels-photo-31415304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
-          "designs": [
-            {
-              "src": "https://images.pexels.com/photos/31415304/pexels-photo-31415304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Sushi set"
-            },
-            {
-              "src": "https://images.pexels.com/photos/8112888/pexels-photo-8112888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Gourmet scallops"
-            },
-            {
-              "src": "https://images.pexels.com/photos/29168406/pexels-photo-29168406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Salmon plate"
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Halo Beauty",
-            "ar": "هالو بيوتي"
-          },
-          "cover": "https://images.pexels.com/photos/6835958/pexels-photo-6835958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=800",
-          "designs": [
-            {
-              "src": "https://images.pexels.com/photos/6835958/pexels-photo-6835958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Neon editorial"
-            },
-            {
-              "src": "https://images.pexels.com/photos/13015486/pexels-photo-13015486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Color portrait"
-            },
-            {
-              "src": "https://images.pexels.com/photos/6835823/pexels-photo-6835823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Neon makeup"
-            },
-            {
-              "src": "https://images.pexels.com/photos/6835869/pexels-photo-6835869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=1000",
-              "alt": "Neon close-up"
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Hakori Almadinah",
             "ar": "هاكوري المدينة "
           },
@@ -1268,6 +1197,51 @@
             },
             {
               "src": "/assets/uploads/whatsapp-image-2026-09-08-at-7-39-17-am-udy29.jpeg",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Business Zone UAE",
+            "ar": "بيزنيس زون"
+          },
+          "cover": "",
+          "designs": [
+            {
+              "src": "/assets/uploads/buszoneuae-3521465086507451834-yl9p1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/buszoneuae-3523620427110354496-yleva.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/buszoneuae-3526512956260107702-yljq6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/buszoneuae-3531587967799106692-ylpbd.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/buszoneuae-3533805344104259606-ym0vy.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/buszoneuae-3556957534352207463-ym6ac.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/buszoneuae-3554060967102157424-ym9wy.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/buszoneuae-3549662627065244846-ymey7.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/buszoneuae-3546845963521123892-ymknz.jpg",
               "alt": ""
             }
           ]
