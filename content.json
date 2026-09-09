@@ -1245,6 +1245,39 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "name": {
+            "en": "Ultra Mall ",
+            "ar": "ألترا مول"
+          },
+          "cover": "/assets/uploads/ultra-mall-yt36g.jpg",
+          "designs": [
+            {
+              "src": "/assets/uploads/ultramall-ae-2577812941769544259-yubbg.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ultramall-ae-3440184097731008172-yuojh.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ultramall-ae-3443081475496761464-yuw4a.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ultramall-ae-3444539071634087717-yv19t.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ultramall-ae-3448143448940990924-yv4rh.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ultramall-ae-3449595001983767634-yvar9.jpg",
+              "alt": ""
+            }
+          ]
         }
       ]
     }
