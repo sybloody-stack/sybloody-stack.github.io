@@ -1492,8 +1492,8 @@
         },
         {
           "name": {
-            "en": "New Client",
-            "ar": "عميل جديد"
+            "en": "FERAS SWEETS",
+            "ar": "حلويات فراس"
           },
           "cover": "/assets/uploads/ssss-ilubd.jpg",
           "designs": [
@@ -1546,6 +1546,14 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "name": {
+            "en": "New Client",
+            "ar": "عميل جديد"
+          },
+          "cover": "",
+          "designs": []
         }
       ]
     }
