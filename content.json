@@ -1318,6 +1318,27 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "name": {
+            "en": "Ultra Green Power",
+            "ar": "ألترا غرين باور"
+          },
+          "cover": "/assets/uploads/ugp-logo-za3mx.png",
+          "designs": [
+            {
+              "src": "/assets/uploads/ugp-solutions-3881752032025520799-zaxcl.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ugp-solutions-3967289996001536890-zb9b7.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ugp-solutions-3952796443949666526-zbiw9.jpg",
+              "alt": ""
+            }
+          ]
         }
       ]
     }
