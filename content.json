@@ -1432,6 +1432,39 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "name": {
+            "en": "Trend Click",
+            "ar": "ترند كليك"
+          },
+          "cover": "/assets/uploads/ffd3c7ba-ec47-45c8-bb0a-c9b0b7deff3c-0pzxm.jpg",
+          "designs": [
+            {
+              "src": "/assets/uploads/trend-click-ae-3794617883703743006-0r0jf.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/trend-click-ae-3796882311266553527-0r8j9.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/trend-click-ae-3799865232701082363-0rfrv.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/trend-click-ae-3824453736449783111-0s8sa.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/trend-click-ae-3824453736449783111-0t8zl.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/trend-click-ae-3829577535361413697-0tste.jpg",
+              "alt": ""
+            }
+          ]
         }
       ]
     }
