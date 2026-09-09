@@ -1489,6 +1489,63 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "name": {
+            "en": "New Client",
+            "ar": "عميل جديد"
+          },
+          "cover": "/assets/uploads/ssss-ilubd.jpg",
+          "designs": [
+            {
+              "src": "/assets/uploads/ferassweets-3330930433171314709-imyex.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ferassweets-3332200749877119245-inb0p.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ferassweets-3335811351094535221-injpd.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ferassweets-3337262385881051252-int44.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ferassweets-3332200749877119245-io5jt.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ferassweets-3342327857164970309-ioffi.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/ferassweets-3343765211322854905-ip8a3.jpg",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            }
+          ]
         }
       ]
     }
