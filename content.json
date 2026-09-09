@@ -1814,6 +1814,51 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "name": {
+            "en": "golden smile dental clinic",
+            "ar": "غولدين سمايل"
+          },
+          "cover": "/assets/uploads/file-l633n.jpg",
+          "designs": [
+            {
+              "src": "/assets/uploads/golden-smile-dentalclinic-35751947927000-l6kgr.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/golden-smile-dentalclinic-35751947931950-l7qmh.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/golden-smile-dentalclinic-35751947931950-l6nul.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/golden-smile-dentalclinic-35751947933542-l6qfu.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/golden-smile-dentalclinic-35866702901700-l7cwa.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/golden-smile-dentalclinic-35786977115460-l6twh.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/golden-smile-dentalclinic-35786977115460-l70dq.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/golden-smile-dentalclinic-35961758971393-l7jb6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/golden-smile-dentalclinic-35839151181208-l73qe.jpg",
+              "alt": ""
+            }
+          ]
         }
       ]
     }
