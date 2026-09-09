@@ -1660,6 +1660,63 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "name": {
+            "en": "HIKAYAT DECOR",
+            "ar": "حكايات ديكور"
+          },
+          "cover": "/assets/uploads/untitled-1-copy-kffvz.jpg",
+          "designs": [
+            {
+              "src": "/assets/uploads/hikayatdecor-3520021187364529360-kg2uw.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3521463184381901971-kg68m.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3525815066115050660-kg9i8.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3528698404055691549-kgd9w.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3531608604269937289-kghgt.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3534546043510849049-kgm2k.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3535975585333004595-kgp7k.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3540307343771870383-kgssv.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3541018278123082391-kgxhs.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3546834467697020880-khd6o.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3549724255592873995-khftj.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/hikayatdecor-3550460648925375031-khjoi.jpg",
+              "alt": ""
+            }
+          ]
         }
       ]
     }
