@@ -1375,6 +1375,39 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "name": {
+            "en": "Proits",
+            "ar": "برويتس"
+          },
+          "cover": "/assets/uploads/proits-15-original879-096c9.png",
+          "designs": [
+            {
+              "src": "/assets/uploads/proits-2763916773700692779-09lo8.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/proits-2765365603768058201-09uzj.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/proits-2766095154403908824-0a1gn.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/proits-2769110172657755792-0a962.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/proits-2773400333767683102-0agb0.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/proits-2775526969216855255-0aq6m.jpg",
+              "alt": ""
+            }
+          ]
         }
       ]
     }
