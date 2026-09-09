@@ -1549,11 +1549,60 @@
         },
         {
           "name": {
-            "en": "New Client",
-            "ar": "عميل جديد"
+            "en": "FERAS RESTAURANT",
+            "ar": "مطعم فراس"
           },
-          "cover": "",
-          "designs": []
+          "cover": "/assets/uploads/untitled-1-iusxn.jpg",
+          "designs": [
+            {
+              "src": "/assets/uploads/feras-restaurant-3328465002454805461-ivhw8.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/feras-restaurant-3335815091004041913-ivont.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/feras-restaurant-3333002103556685984-ivw4i.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/feras-restaurant-3333656667151521938-iw4f9.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/uploads/feras-restaurant-3335815091004041913-iwtnf.jpg",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            },
+            {
+              "src": "",
+              "alt": ""
+            }
+          ]
         }
       ]
     }
