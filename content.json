@@ -4960,6 +4960,18 @@
           "ar": "مرسيدس فان"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "cars",
+        "src": "https://youtube.com/shorts/4WTAZ7BRvfg",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Mercedes-Benz Vans",
+          "ar": "مرسيدس بينز فان"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
