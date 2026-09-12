@@ -4940,8 +4940,8 @@
       {
         "type": "video",
         "cat": "cars",
-        "src": "",
-        "poster": "https://youtube.com/shorts/N9IjzbLjcDs",
+        "src": "https://youtube.com/shorts/N9IjzbLjcDs",
+        "poster": "",
         "orientation": "portrait",
         "title": {
           "en": "Mercedes Vans",
