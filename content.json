@@ -5044,6 +5044,18 @@
           "ar": "ميك أب"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/WAL3_X4VeC0",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Coffee lob",
+          "ar": "كوفي لوب "
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
