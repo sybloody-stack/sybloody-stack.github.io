@@ -3645,102 +3645,6 @@
           ]
         },
         {
-          "id": "fmtyja93w",
-          "name": {
-            "en": "majestic Oud",
-            "ar": "مجستك للعود"
-          },
-          "logo": "/assets/photography/products/new-folder/logo.jpg",
-          "cover": "/assets/photography/products/majestic-oud/cover.jpg",
-          "path": "",
-          "images": [
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-22-04-26-41-img-2734-jdjlq.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-22-04-30-38-img-2735-jdnpm.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-16-19-45-img-2738-jdw9l.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-16-49-09-img-2746-je24k.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-05-57-img-2762-jeh4b.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-07-32-img-2761-jem57.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-15-51-img-2760-jes13.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-21-06-img-2759-jew8g.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-29-17-img-2758-jf03e.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-45-44-img-2744-jf58g.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-09-31-img-2775-jfe4d.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-15-15-img-2776-jfjba.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-18-19-img-2757-jfpu9.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-18-19-img-2757-jfu5v.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-20-58-img-2756-jfyh6.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-22-03-img-2754-jg4ob.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-26-16-51-52-img-2766-jgaun.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-26-16-54-58-img-2767-jghjd.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-04-46-img-2772-jgovk.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-22-57-img-2769-jguur.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-28-05-img-2770-jh05d.jpg",
-              "alt": ""
-            }
-          ]
-        },
-        {
           "id": "fmtyjlqa7",
           "name": {
             "en": "Skinage Beauty",
@@ -4071,7 +3975,7 @@
             "ar": "مون غاردين"
           },
           "logo": "",
-          "cover": "",
+          "cover": "/assets/photography/products/moon-garden/2024-02-20-00-11-07-img-2719-s4eke.jpg",
           "path": "",
           "images": [
             {
@@ -4136,6 +4040,194 @@
             },
             {
               "src": "/assets/photography/products/moon-garden/2025-11-17-06-50-15-img-2678-s54yp.jpg",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "id": "fmtyt1cqe",
+          "name": {
+            "en": "majestic Oud",
+            "ar": "مجستك للعود"
+          },
+          "logo": "",
+          "cover": "",
+          "path": "",
+          "images": [
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-22-04-26-41-img-2734-t2g8h.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-22-04-30-38-img-2735-t2inq.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-16-19-45-img-2738-t2lci.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-16-49-09-img-2746-t2nz7.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-16-53-17-img-2747-t2qoj.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-05-57-img-2762-t2t5x.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-07-32-img-2761-t2von.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-08-07-img-2745-t2yd9.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-10-14-img-2737-t30jz.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-15-51-img-2760-t32ri.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-21-06-img-2759-t34v7.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-29-17-img-2758-t36oe.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-45-44-img-2744-t38x9.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-53-31-img-2751-t3b6d.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-54-13-img-2750-t3dif.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-18-55-55-img-2749-t3fib.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-09-31-img-2775-t3i7l.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-15-15-img-2776-t3kl3.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-17-19-img-2777-t3m3o.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-18-19-img-2757-t3nmy.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-20-58-img-2756-t3pye.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-21-14-img-2755-t3s44.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-22-03-img-2754-t3uhp.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-22-18-img-2753-t3wgy.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-23-15-img-2748-t3ym7.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-23-26-img-2752-t40tv.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-50-03-img-2743-t436g.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-50-03-img-2763-t453v.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-51-03-img-2742-t46vv.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-51-03-img-2764-t493u.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-51-32-img-2741-t4awz.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-51-32-img-2765-t4d1d.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-54-36-img-2740-t4f06.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-56-03-img-2739-t4gzj.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-25-19-58-14-img-2736-t4j7y.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-26-16-51-52-img-2766-t4l72.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-26-16-54-58-img-2767-t4ntv.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-04-46-img-2772-t4q98.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-04-46-img-2773-t4rt6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-04-46-img-2774-t4tyk.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-22-57-img-2769-t4wcr.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-23-28-img-2768-t4y31.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-26-04-img-2771-t50ae.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/majestic-oud/2024-02-26-17-28-05-img-2770-t52c2.jpg",
               "alt": ""
             }
           ]
