@@ -5020,6 +5020,18 @@
           "ar": "ميك اب"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "products",
+        "src": "https://youtube.com/shorts/JTV-PfzcamQ",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "make up",
+          "ar": "ميك أب"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
