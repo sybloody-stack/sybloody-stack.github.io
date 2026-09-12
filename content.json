@@ -3867,7 +3867,7 @@
             "ar": "مون للعطور"
           },
           "logo": "",
-          "cover": "",
+          "cover": "/assets/photography/products/moon-perfum/2024-02-25-19-09-31-img-2699-rzpli.jpg",
           "path": "",
           "images": [
             {
@@ -4060,6 +4060,82 @@
             },
             {
               "src": "/assets/photography/products/moon-perfum/2025-11-17-06-51-10-img-2733-s26ae.jpg",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "id": "fmtys3l5a",
+          "name": {
+            "en": "Moon Garden",
+            "ar": "مون غاردين"
+          },
+          "logo": "",
+          "cover": "",
+          "path": "",
+          "images": [
+            {
+              "src": "/assets/photography/products/moon-garden/2024-02-20-00-11-07-img-2719-s4eke.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2024-02-20-00-11-07-img-2721-s4geq.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2024-02-20-00-11-07-img-2723-s4i7x.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2024-02-20-00-11-07-img-2725-s4k25.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2024-02-20-00-13-26-img-2720-s4lvc.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2024-02-20-00-13-26-img-2727-s4nfe.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2024-02-20-01-28-31-img-2722-s4pb6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2024-02-20-01-28-31-img-2724-s4qy7.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2024-02-20-01-28-31-img-2726-s4skc.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2025-11-17-06-50-09-img-2672-s4u35.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2025-11-17-06-50-10-img-2673-s4w3q.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2025-11-17-06-50-11-img-2674-s4xzc.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2025-11-17-06-50-12-img-2675-s4zux.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2025-11-17-06-50-13-img-2676-s51v2.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2025-11-17-06-50-14-img-2677-s53mp.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/moon-garden/2025-11-17-06-50-15-img-2678-s54yp.jpg",
               "alt": ""
             }
           ]
