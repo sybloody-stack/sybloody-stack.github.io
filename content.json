@@ -4972,6 +4972,18 @@
           "ar": "مرسيدس بينز فان"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "cars",
+        "src": "",
+        "poster": "https://youtube.com/shorts/woeL1WMqyhw",
+        "orientation": "portrait",
+        "title": {
+          "en": "Toyota Supra",
+          "ar": "تيوتا سوبرا"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
