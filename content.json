@@ -691,8 +691,8 @@
         {
           "id": "fmtypoda1",
           "name": {
-            "en": "New folder",
-            "ar": "مجلد جديد"
+            "en": "Dubai Car",
+            "ar": "سيارات دبي"
           },
           "logo": "",
           "cover": "/assets/photography/cars/new-folder/2024-01-26-15-37-53-img-0166-poo7x.jpg",
@@ -700,6 +700,82 @@
           "images": [
             {
               "src": "/assets/photography/cars/new-folder/2024-01-26-15-37-53-img-0166-poo7x.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-16-03-38-img-0165-pskhr.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-16-07-21-img-0164-psp4a.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-16-27-30-img-0163-pst6k.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-16-41-26-img-0161-psydg.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-16-52-59-img-0160-pt2t3.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-17-05-37-img-0159-pta98.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-17-06-35-img-0158-ptgto.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-17-11-14-img-0157-ptkkd.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-17-31-34-img-0155-ptpyh.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-17-32-13-img-0154-ptv8s.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-17-44-39-img-0153-pu01u.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-17-50-50-img-0152-pu6y0.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-18-19-14-img-0150-pul05.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-18-53-53-img-0147-puuqn.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-18-56-18-img-0143-pv11w.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-19-18-53-img-0141-pvl45.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-19-29-17-img-0138-pvu4c.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-19-43-32-img-0136-pw7t1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/dubai-car/2024-01-26-19-45-05-img-0135-pwfya.jpg",
               "alt": ""
             }
           ]
@@ -711,7 +787,7 @@
             "ar": "مجلد جديد"
           },
           "logo": "",
-          "cover": "",
+          "cover": "/assets/photography/cars/new-folder/2025-08-02-06-44-11-img-4807-powvs.jpg",
           "path": "",
           "images": [
             {
