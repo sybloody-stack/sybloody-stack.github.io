@@ -4900,6 +4900,18 @@
           "ar": "Relook Salon"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/u_FfazMynkY",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Yemeni Kitchen",
+          "ar": "المطبخ اليمني"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
