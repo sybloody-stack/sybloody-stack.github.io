@@ -601,6 +601,90 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "id": "fmtykv1bs",
+          "name": {
+            "en": "Grand life",
+            "ar": "غراند لايف"
+          },
+          "logo": "",
+          "cover": "/assets/photography/restaurants/grand-life/cover.jpg",
+          "path": "",
+          "images": [
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-30-36-img-2255-kw5rf.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-46-10-img-2275-kwcuq.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-53-08-img-2243-kwjth.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-54-35-img-2246-kwoso.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-55-39-img-2247-kwszm.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-56-03-img-2249-kx52z.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-54-01-img-2245-kxghw.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-55-39-img-2247-kxl4k.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-58-21-img-2270-kxtuy.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-57-27-img-2251-ky2bn.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-17-23-58-34-img-2269-ky98h.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-18-00-06-13-img-2267-kyfd5.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-18-00-15-58-img-2265-kykn3.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-18-00-16-47-img-2263-kzm9x.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-18-00-25-25-img-2262-l007c.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-18-00-29-28-img-2258-l08gl.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-18-00-29-35-img-2257-l0f1x.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/restaurants/grand-life/2023-11-18-00-29-43-img-2256-l0ki7.jpg",
+              "alt": ""
+            }
+          ]
         }
       ],
       "cars": [
