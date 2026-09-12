@@ -2495,7 +2495,7 @@
             "ar": "روكس 2025"
           },
           "logo": "",
-          "cover": "",
+          "cover": "/assets/photography/cars/rox-2025/2025-08-13-07-19-05-img-5161-rbsqp.jpg",
           "path": "",
           "images": [
             {
@@ -2643,6 +2643,17 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "id": "fmtyre1ds",
+          "name": {
+            "en": "MARCDES C260",
+            "ar": "مرسيدس"
+          },
+          "logo": "",
+          "cover": "",
+          "path": "",
+          "images": []
         }
       ],
       "medical": [
