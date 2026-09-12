@@ -3645,126 +3645,6 @@
           ]
         },
         {
-          "id": "fmtyjlqa7",
-          "name": {
-            "en": "Skinage Beauty",
-            "ar": "سكين ايج بيوتي"
-          },
-          "logo": "/assets/photography/products/skinage-beauty/logo.png",
-          "cover": "/assets/photography/products/skinage-beauty/cover.png",
-          "path": "",
-          "images": [
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-11-20-59-18-img-2549-jt6u1.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-12-06-img-2636-jth2q.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-18-05-img-2638-jto3h.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-23-40-img-2628-jtt8e.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-43-17-img-2550-jtze6.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-55-54-img-2641-ju891.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-13-22-17-39-img-2643-jujgx.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-13-22-33-13-img-2646-jup6b.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-13-22-59-59-img-2647-juw3h.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-08-04-img-2648-jv43t.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-08-04-img-2648-jvg0h.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-13-47-img-2650-jvlxe.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-13-47-img-2650-jvvzr.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-24-06-img-2576-jw2le.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-48-59-img-2561-jwecg.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-35-57-img-2579-jwol2.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-24-06-img-2576-jwum3.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-48-59-img-2561-jx0uq.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-00-31-img-2585-jx6k7.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-08-08-img-2556-jxekm.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-24-17-img-2588-jxk45.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-30-01-img-2590-jxuqe.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-44-23-img-2597-jy0i2.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-34-34-img-2593-jy838.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-47-49-img-2602-jyias.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-46-32-img-2620-jyqu1.jpg",
-              "alt": ""
-            },
-            {
-              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-38-38-img-2617-jz32t.jpg",
-              "alt": ""
-            }
-          ]
-        },
-        {
           "id": "fmtyry6ln",
           "name": {
             "en": "MOON PERFUM",
@@ -4051,7 +3931,7 @@
             "ar": "مجستك للعود"
           },
           "logo": "",
-          "cover": "",
+          "cover": "/assets/photography/products/majestic-oud/2024-02-22-04-26-41-img-2734-t2g8h.jpg",
           "path": "",
           "images": [
             {
@@ -4228,6 +4108,450 @@
             },
             {
               "src": "/assets/photography/products/majestic-oud/2024-02-26-17-28-05-img-2770-t52c2.jpg",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "id": "fmtyt5j8u",
+          "name": {
+            "en": "Skinage Beauty",
+            "ar": "سكين أيج بيوتي"
+          },
+          "logo": "",
+          "cover": "",
+          "path": "",
+          "images": [
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-11-20-59-18-img-2549-t66p1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-11-20-59-18-img-2551-t68vu.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-11-20-59-18-img-2624-t6b3k.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-11-20-59-18-img-2626-t6d4r.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-11-20-59-18-img-2627-t6fcx.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-11-20-59-18-img-2629-t6h8h.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-03-02-img-2635-t6ipn.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-03-22-img-2553-t6l6w.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-03-58-img-2554-t6n9o.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-12-06-img-2636-t6pk8.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-16-32-img-2637-t6r8d.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-18-05-img-2638-t6tit.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-18-29-img-2571-t6vgt.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-23-40-img-2628-t6xk1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-26-16-img-2630-t6zi4.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-27-03-img-2632-t71lv.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-30-11-img-2631-t73h0.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-43-17-img-2550-t75gc.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-43-58-img-2548-t77pg.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-43-58-img-2625-t79xv.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-47-53-img-2623-t7bjz.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-53-16-img-2639-t7d2w.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-55-20-img-2640-t7fiw.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-21-55-54-img-2641-t7hp6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-22-02-54-img-2642-t7jqm.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-22-17-39-img-2643-t7lrw.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-22-24-30-img-2644-t7nid.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-22-26-09-img-2645-t7p5o.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-22-33-13-img-2646-t7r4q.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-22-59-59-img-2647-t7t41.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-13-23-00-37-img-2567-t7uw1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-08-04-img-2648-t7wgn.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-11-38-img-2649-t7yeb.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-13-47-img-2650-t80iu.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-15-15-img-2651-t8207.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-19-32-img-2653-t83og.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-21-07-img-2601-t85cz.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-23-18-img-2573-t86vu.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-24-06-img-2576-t8920.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-25-58-img-2575-t8ayr.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-26-46-img-2574-t8crv.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-29-25-img-2564-t8e84.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-30-32-img-2577-t8frt.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-34-30-img-2578-t8hdc.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-35-57-img-2579-t8jk8.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-47-19-img-2562-t8ld1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-47-19-img-2652-t8n77.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-48-59-img-2561-t8ooc.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-51-54-img-2580-t8qmy.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-53-51-img-2581-t8sgk.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-56-42-img-2582-t8uc0.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-00-57-31-img-2583-t8wbe.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-00-08-img-2584-t8xvy.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-00-31-img-2585-t8zmw.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-03-47-img-2558-t911p.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-04-48-img-2559-t92jo.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-07-34-img-2555-t93yk.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-08-08-img-2556-t95v2.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-11-01-img-2569-t97gq.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-12-25-img-2586-t98ym.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-17-29-img-2587-t9ass.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-24-17-img-2588-t9cay.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-25-57-img-2589-t9hxe.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-30-01-img-2590-t9jyf.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-30-58-img-2591-t9m5l.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-33-04-img-2592-t9o3f.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-34-34-img-2593-t9q1u.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-40-25-img-2594-t9rtw.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-40-51-img-2595-t9ua1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-41-07-img-2596-t9vri.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-43-24-img-2598-t9xjk.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-44-23-img-2597-t9zjh.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-45-11-img-2599-ta1ll.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-47-17-img-2600-ta3j6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-47-49-img-2602-ta5r4.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-01-57-02-img-2603-ta79r.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-02-00-21-img-2604-ta94g.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-02-05-39-img-2605-taai0.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-02-06-31-img-2607-tacc2.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-02-09-44-img-2606-tae2t.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-02-49-07-img-2633-tafk5.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-02-50-59-img-2634-tahkf.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-02-52-17-img-2608-tajc8.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-02-54-48-img-2572-tal8y.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-02-59-52-img-2552-tan8w.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-03-33-img-2609-tap91.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-05-55-img-2570-tar2l.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-07-44-img-2610-tasqn.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-08-02-img-2557-taupj.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-09-04-img-2611-taw7a.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-12-14-img-2612-taxoi.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-14-45-img-2613-tazf4.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-16-56-img-2560-tb17j.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-18-39-img-2614-tb2si.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-25-32-img-2563-tb4n1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-27-54-img-2615-tb6gk.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-29-06-img-2616-tb89r.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-31-14-img-2568-tb9qg.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-35-53-img-2565-tbbmu.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-37-32-img-2566-tbh2d.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-38-38-img-2617-tbixr.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-39-50-img-2618-tbkpz.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-44-54-img-2619-tbmqn.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-46-32-img-2620-tboqx.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-48-12-img-2621-tbqpw.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-51-41-img-2622-tbt7s.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-03-59-37-img-2546-tbv19.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/skinage-beauty/2024-01-14-04-05-37-img-2547-tbx6n.jpg",
               "alt": ""
             }
           ]
