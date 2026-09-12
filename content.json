@@ -4912,6 +4912,18 @@
           "ar": "المطبخ اليمني"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "medical",
+        "src": "",
+        "poster": "https://youtube.com/shorts/pwSX2Exgr0M",
+        "orientation": "portrait",
+        "title": {
+          "en": "Health Care",
+          "ar": "هيلث كلير"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
