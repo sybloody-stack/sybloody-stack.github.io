@@ -4927,18 +4927,6 @@
       },
       {
         "type": "video",
-        "cat": "products",
-        "src": "",
-        "poster": "",
-        "orientation": "portrait",
-        "title": {
-          "en": "New video",
-          "ar": "فيديو جديد"
-        },
-        "duration": "00:30"
-      },
-      {
-        "type": "video",
         "cat": "cars",
         "src": "https://youtube.com/shorts/Jcaes8lpAHI",
         "poster": "",
@@ -4976,8 +4964,8 @@
       {
         "type": "video",
         "cat": "cars",
-        "src": "",
-        "poster": "https://youtube.com/shorts/woeL1WMqyhw",
+        "src": "https://youtube.com/shorts/woeL1WMqyhw",
+        "poster": "",
         "orientation": "portrait",
         "title": {
           "en": "Toyota Supra",
