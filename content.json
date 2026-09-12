@@ -1099,7 +1099,7 @@
             "ar": "بي ام دبلو"
           },
           "logo": "",
-          "cover": "",
+          "cover": "/assets/photography/cars/bmw-i3/2025-05-22-07-39-22-img-3217-qdc60.jpg",
           "path": "",
           "images": [
             {
@@ -1305,7 +1305,96 @@
           "logo": "",
           "cover": "",
           "path": "",
-          "images": []
+          "images": [
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-07-56-17-img-2797-qh1df.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-07-58-40-img-2808-qh3rr.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-03-28-img-2795-qh5tb.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-08-31-img-2806-qh7xw.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-09-13-img-2810-qha1x.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-09-50-img-2801-qhbzj.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-10-11-img-2812-qhdka.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-10-20-img-2799-qhfnn.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-12-04-img-2814-qhhlf.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-14-30-img-2803-qhji5.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-14-59-img-2804-qhlnj.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-16-56-img-2794-qhnym.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-17-18-img-2798-qhpjd.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-18-34-img-2809-qhri6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-19-18-img-2796-qhu9g.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-22-33-img-2815-qhwcg.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-23-24-img-2811-qhy7s.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-25-04-img-2800-qi0eo.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-25-43-img-2813-qi3fp.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-08-30-31-img-2802-qi5o0.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-09-02-18-img-2807-qi7x6.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/cars/new-folder/2025-04-19-09-02-42-img-2805-qia9m.jpg",
+              "alt": ""
+            }
+          ]
         },
         {
           "id": "fmtypogf6",
