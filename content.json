@@ -5056,6 +5056,18 @@
           "ar": "كوفي لوب "
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/NT5YNARzGUI",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Coffee lob",
+          "ar": "كوفي لوب "
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
