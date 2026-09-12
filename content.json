@@ -4976,8 +4976,8 @@
       {
         "type": "video",
         "cat": "cars",
-        "src": "",
-        "poster": "https://youtube.com/shorts/VIq45AxFcK0",
+        "src": "https://youtube.com/shorts/VIq45AxFcK0",
+        "poster": "",
         "orientation": "portrait",
         "title": {
           "en": "Mercedes",
