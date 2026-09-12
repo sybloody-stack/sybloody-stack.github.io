@@ -4996,6 +4996,18 @@
           "ar": "مرسيدس"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "restaurants",
+        "src": "https://youtube.com/shorts/HQ0nVjD2BrY",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Al Tarbouch Al Soory",
+          "ar": "الطربوش السوري"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
