@@ -615,58 +615,86 @@
       ],
       "products": [
         {
-          "id": "noir-oud",
+          "id": "fmtyj51gz",
           "name": {
-            "en": "Noir Oud",
-            "ar": "نوار عود"
+            "en": "Altusens products",
+            "ar": "منتجات "
           },
           "logo": "",
-          "cover": "https://images.pexels.com/photos/12053217/pexels-photo-12053217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "cover": "/assets/photography/products/altusens-products/4n6a4067-copy-2-j6j28.jpg",
           "path": "",
           "images": [
             {
-              "src": "https://images.pexels.com/photos/12053217/pexels-photo-12053217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Perfume bottle with petals"
+              "src": "/assets/photography/products/altusens-products/4n6a4067-copy-2-j6j28.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/7850600/pexels-photo-7850600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Perfume on black silk"
+              "src": "/assets/photography/products/altusens-products/4n6a4068-copy-2-j6zin.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/11216321/pexels-photo-11216321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Black bottle, glossy reflection"
+              "src": "/assets/photography/products/altusens-products/4n6a4069-copy-2-j74iu.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/31771395/pexels-photo-31771395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Profumo bottle on black"
-            }
-          ]
-        },
-        {
-          "id": "maison-glass",
-          "name": {
-            "en": "Maison Glass",
-            "ar": "ميزون غلاس"
-          },
-          "logo": "",
-          "cover": "https://images.pexels.com/photos/37900999/pexels-photo-37900999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "path": "",
-          "images": [
-            {
-              "src": "https://images.pexels.com/photos/37900999/pexels-photo-37900999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Watch & perfume on leather"
+              "src": "/assets/photography/products/altusens-products/4n6a4070-copy-2-j7833.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/36779953/pexels-photo-36779953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Perfume on textured fabric"
+              "src": "/assets/photography/products/altusens-products/4n6a4071-copy-2-j7bje.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/36779955/pexels-photo-36779955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Perfume macro on fabric"
+              "src": "/assets/photography/products/altusens-products/4n6a4072-copy-2-j7f30.jpg",
+              "alt": ""
             },
             {
-              "src": "https://images.pexels.com/photos/36779956/pexels-photo-36779956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-              "alt": "Glass perfume bottle"
+              "src": "/assets/photography/products/altusens-products/4n6a4073-copy-2-j7i4x.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4074-copy-2-j7ks3.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4075-copy-2-j7pds.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4084-copy-2-j7t6j.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4082-copy-2-j7yi8.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4093-copy-2-j82m1.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4095-copy-2-j8aiz.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4098-copy-2-j8jro.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4104-copy-2-j8nvx.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4105-copy-2-j8r5w.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4106-copy-2-j8vco.jpg",
+              "alt": ""
+            },
+            {
+              "src": "/assets/photography/products/altusens-products/4n6a4107-copy-2-j95zc.jpg",
+              "alt": ""
             }
           ]
         }
