@@ -4984,6 +4984,18 @@
           "ar": "تيوتا سوبرا"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "cars",
+        "src": "",
+        "poster": "https://youtube.com/shorts/VIq45AxFcK0",
+        "orientation": "portrait",
+        "title": {
+          "en": "Mercedes",
+          "ar": "مرسيدس"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
