@@ -4948,6 +4948,18 @@
           "ar": "رنج روفير"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "cars",
+        "src": "",
+        "poster": "https://youtube.com/shorts/N9IjzbLjcDs",
+        "orientation": "portrait",
+        "title": {
+          "en": "Mercedes Vans",
+          "ar": "مرسيدس فان"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
