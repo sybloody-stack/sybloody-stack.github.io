@@ -4916,8 +4916,8 @@
       {
         "type": "video",
         "cat": "medical",
-        "src": "",
-        "poster": "https://youtube.com/shorts/pwSX2Exgr0M",
+        "src": "https://youtube.com/shorts/pwSX2Exgr0M",
+        "poster": "",
         "orientation": "portrait",
         "title": {
           "en": "Health Care",
