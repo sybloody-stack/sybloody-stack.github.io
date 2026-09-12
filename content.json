@@ -5008,6 +5008,18 @@
           "ar": "الطربوش السوري"
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "products",
+        "src": "https://youtube.com/shorts/gvIOZ0ffcrA?feature=share",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "make up",
+          "ar": "ميك اب"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
