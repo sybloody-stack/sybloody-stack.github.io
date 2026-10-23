@@ -693,7 +693,7 @@
             "ar": "صور طعام سوشل"
           },
           "logo": "",
-          "cover": "",
+          "cover": "/assets/photography/restaurants/lifestyle-foods/2025-12-23-03-35-34-img-5729-w7kvh.jpg",
           "path": "",
           "images": [
             {
@@ -1021,6 +1021,16 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "id": "fmvl7gp6d",
+          "name": {
+            "en": "New folder",
+            "ar": "مجلد جديد"
+          },
+          "logo": "",
+          "cover": "",
+          "images": []
         }
       ],
       "cars": [
@@ -6276,5 +6286,22 @@
         }
       ]
     }
+  },
+  "site": {
+    "name": "YAZAN",
+    "email": "yazan.alamatouri@gmail.com",
+    "whatsapp": "https://wa.me/971544022983",
+    "instagram": "https://www.instagram.com/trend.click.ae/",
+    "behance": "https://www.behance.net/yazanalamatouri",
+    "linkedin": "https://www.linkedin.com/in/yazan-alamatouri/",
+    "location": {
+      "en": "Dubai - UAE",
+      "ar": "دبي - الإمارات"
+    },
+    "resumeUrl": "/assets/YAZAN-Resume.pdf",
+    "portfolioUrl": "/assets/YAZAN-Portfolio.pdf",
+    "logoMark": "/assets/brand/logo-mark.png",
+    "logoFullWhite": "/assets/brand/logo-full-white.png",
+    "logoFullDark": "/assets/brand/logo-full-dark.png"
   }
 }
