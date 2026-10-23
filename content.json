@@ -1021,16 +1021,6 @@
               "alt": ""
             }
           ]
-        },
-        {
-          "id": "fmvl7gp6d",
-          "name": {
-            "en": "New folder",
-            "ar": "مجلد جديد"
-          },
-          "logo": "",
-          "cover": "",
-          "images": []
         }
       ],
       "cars": [
@@ -5256,18 +5246,6 @@
         "title": {
           "en": "Yemeni Kitchen",
           "ar": "المطبخ اليمني"
-        },
-        "duration": "00:30"
-      },
-      {
-        "type": "video",
-        "cat": "medical",
-        "src": "https://youtube.com/shorts/pwSX2Exgr0M",
-        "poster": "",
-        "orientation": "portrait",
-        "title": {
-          "en": "Health Care",
-          "ar": "هيلث كلير"
         },
         "duration": "00:30"
       },
