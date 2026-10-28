@@ -6286,7 +6286,8 @@
       "enFile": "",
       "arFile": "",
       "enFileName": "",
-      "arFileName": ""
+      "arFileName": "",
+      "head": "Oswald"
     },
     "sections": {
       "photography": true,
