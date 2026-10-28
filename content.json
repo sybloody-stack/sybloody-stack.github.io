@@ -6270,6 +6270,8 @@
     "email": "yazan.alamatouri@gmail.com",
     "whatsapp": "https://wa.me/971544022983",
     "instagram": "https://www.instagram.com/trend.click.ae/",
+    "tiktok": "",
+    "facebook": "",
     "behance": "https://www.behance.net/yazanalamatouri",
     "linkedin": "https://www.linkedin.com/in/yazan-alamatouri/",
     "location": {
@@ -6278,6 +6280,22 @@
     },
     "resumeUrl": "/assets/YAZAN-Resume.pdf",
     "portfolioUrl": "/assets/YAZAN-Portfolio.pdf",
+    "fonts": {
+      "en": "Plus Jakarta Sans",
+      "ar": "Cairo",
+      "enFile": "",
+      "arFile": "",
+      "enFileName": "",
+      "arFileName": ""
+    },
+    "sections": {
+      "photography": true,
+      "video": true,
+      "advertising": true,
+      "social": true,
+      "about": true,
+      "clients": true
+    },
     "logoMark": "/assets/brand/logo-mark.png",
     "logoFullWhite": "/assets/brand/logo-full-white.png",
     "logoFullDark": "/assets/brand/logo-full-dark.png"
