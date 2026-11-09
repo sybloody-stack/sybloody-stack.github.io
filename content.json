@@ -5416,6 +5416,18 @@
           "ar": "كوفي لوب "
         },
         "duration": "00:30"
+      },
+      {
+        "type": "video",
+        "cat": "products",
+        "src": "https://youtube.com/shorts/N01uaRotWNo",
+        "poster": "",
+        "orientation": "portrait",
+        "title": {
+          "en": "Splatter Rooms",
+          "ar": "فيديو جديد"
+        },
+        "duration": "00:30"
       }
     ],
     "clientLogos": [
