@@ -6316,5 +6316,17 @@
     "logoMark": "/assets/brand/logo-mark.png",
     "logoFullWhite": "/assets/brand/logo-full-white.png",
     "logoFullDark": "/assets/brand/logo-full-dark.png"
+  },
+  "ui": {
+    "en": {
+      "about": {
+        "body": "Social Media Specialist with a strong foundation in digital marketing, content production, and performance-driven campaign\nmanagement. Combines creative storytelling with data-led execution across content strategy, video production, community\nmanagement, paid social advertising, and AI-powered content workflows. Proven record of growing brand presence and translating\nclient goals into measurable results across "
+      }
+    },
+    "ar": {
+      "about": {
+        "body": "أخصائي وسائل تواصل اجتماعي يتمتع بأساس قوي في التسويق الرقمي، وإنتاج المحتوى، وإدارة الحملات الموجهة نحو تحقيق النتائج. يجمع بين أسلوب السرد القصصي الإبداعي والتنفيذ القائم على البيانات؛ بدءاً من وضع استراتيجيات المحتوى، وإنتاج الفيديو، وإدارة المجتمعات الرقمية، وصولاً إلى الإعلانات المدفوعة على منصات التواصل الاجتماعي وتوظيف تقنيات الذكاء الاصطناعي في سير عمل إنتاج المحتوى. يمتلك سجلاً حافلاً في تعزيز حضور العلامات التجارية وتحويل أهداف العملاء إلى نتائج ملموسة وقابلة للقياس."
+      }
+    }
   }
 }
